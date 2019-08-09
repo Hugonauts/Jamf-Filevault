@@ -57,7 +57,7 @@ Step 3. Include the 3 Scripts & Run In Sequential Order.
 & Thats it.
 
 When the user logs in, the applescript (Filevault-Setup-Step-1) will prompt them for there password, they will enter it twice, if it fails to match,
-it will prompt them twice again. It will then write out to the temporary text file -> /Library/Scripts/TempFVPassword.txt.
+it will prompt them twice again. It will then write out to the temporary text file -> /Library/Scripts/TempFVPassword.txt. OBVIOUSLY YOU CAN SAVE THIS WHEREVER YOU WANT - I recommend /tmp 
 
 Then the following script, Filevault-Setup-Step-2 will run, read the text file, pass the password where it needs to be in the
 fdesetup command & utilize the local fv admin to allow the logged in user to become filevault encrypted.
