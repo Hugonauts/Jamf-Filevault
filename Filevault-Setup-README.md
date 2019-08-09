@@ -36,9 +36,7 @@ Filevault-Setup-Step-2 but I split them up. Up to you.
 
 
 
-###########################################
-########### How It Works ##########
-###########################################
+########### How It Works 
 
 The way this works is simple. 
 
