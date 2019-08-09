@@ -3,9 +3,8 @@ I created this to be utilized by our deployment team when providing an and user 
 
 # Filevault-Setup-Solution-Automated
 
-###########################################
-########## Filevault-Setup-Step-1 #########
-###########################################
+
+########## Filevault-Setup-Step-1 
 
 Edit Line #5 (Message to display)
 
@@ -13,9 +12,8 @@ Edit Line #5 (Message to display)
 
 
 
-###########################################
-########## Filevault-Setup-Step-2 #########
-###########################################
+
+########## Filevault-Setup-Step-2
 
 The script in Filevault-Setup-Step-2 was extracted from 
 https://github.com/jamf/FileVault2_Scripts/blob/master/reissueKey.sh
@@ -29,9 +27,7 @@ Edit Lines #4 & #5 with the local admin account on the machine / authorized file
 
 
 
-###########################################
-########## Filevault-Setup-Step-3 #########
-###########################################
+########## Filevault-Setup-Step-3 
 
 You don't need to do anything here, you can add a message if you'd like. This could really be added to 
 Filevault-Setup-Step-2 but I split them up. Up to you.
