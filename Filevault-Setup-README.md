@@ -1,4 +1,4 @@
-I created this to be utilized by our deployment team when providing an and user a new computer. Can be heavily modified.
+I created this to be utilized by our deployment team when providing an end user a new computer. Can be heavily modified.
 
 
 # Filevault-Setup-Solution-Automated
