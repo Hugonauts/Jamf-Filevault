@@ -1,5 +1,7 @@
 I created this to be utilized by our deployment team when providing an end user a new computer. Can be heavily modified.
 
+All 3 of these scripts can be made into 1 shell script if you so desire. I've split them up for ease of understanding.
+
 
 # Filevault-Setup-Solution-Automated
 
